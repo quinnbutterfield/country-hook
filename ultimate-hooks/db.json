@@ -1,0 +1,41 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "mike wazowski",
+      "id": 3
+    },
+    {
+      "content": "eee",
+      "id": 4
+    },
+    {
+      "content": "waa",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "eeee",
+      "number": "aaa",
+      "id": 2
+    },
+    {
+      "name": "fred",
+      "number": "2016",
+      "id": 3
+    }
+  ]
+}
